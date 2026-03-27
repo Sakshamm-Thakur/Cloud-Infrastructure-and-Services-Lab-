@@ -1,1 +1,3 @@
 Public IP - 135.235.195.65
+
+Storage Account- https://sakshamstorage12345.z29.web.core.windows.net/
